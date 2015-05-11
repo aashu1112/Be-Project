@@ -1,0 +1,7 @@
+microphones noise canceling,1
+battery lasts day,-1
+battery extremely short,-1
+battery lasts longer,1
+battery dies quickly,-1
+battery no better,-1
+battery not charge,-1
